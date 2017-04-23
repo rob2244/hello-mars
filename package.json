@@ -1,6 +1,6 @@
 {
   "name": "hello-mars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say hello to mars",
   "main": "index.js",
   "scripts": {
